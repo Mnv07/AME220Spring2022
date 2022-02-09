@@ -1,0 +1,25 @@
+hex to rgb :
+    #a3461f = rgb(163, 70, 31)
+    #ab34c6 = rgb(171, 52, 198)
+    #7feb23 = rgb(127, 235, 35)
+    #b4571a = rgb(180, 87, 26)
+    #6ab34c = rgb(106, 179, 76)
+    #b237fe = rgb(178, 55, 254)
+    #71ab45 = rgb(113, 171, 69)
+    #715ab4 = rgb(113, 90, 180)
+
+rgb to hex:
+    rgb(213, 12,112) = #D50C7A
+    rgb(22,126,52) = #167E34
+    rgb(213,214,41) = #D5D629
+    rgb(113,22,113) = #711671
+    rgb(126,112,172) = #7E70AC
+    rgb(142,24,241) = #8E18F1
+    rgb(123,32,121) = #7B1F79
+    rgba(127,123,224,.4) = #7f7be066
+
+4 css properties that need color values:
+     background-color
+     border-color
+     text-decoration-color
+     caret-color
