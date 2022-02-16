@@ -1,0 +1,30 @@
+.heading{
+    color:black;
+    text-align: center;
+}
+
+.contact{
+   
+	margin-left: 10px;
+    color: bisque;
+}
+
+.head{
+    padding: 30px;
+    color:mediumorchid;
+    font-size: 30px;
+}
+
+.content{
+    font-size: 20px;
+}
+
+footer {
+	text-align: center;
+	overflow: hidden;
+	clear: both;
+	background-color: #222222;
+	color: #ffffff;
+	margin: 8px 0;
+	height: 100px;
+}
