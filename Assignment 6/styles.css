@@ -1,0 +1,65 @@
+.heading{
+    color:black;
+    text-align: center;
+}
+
+.accordion {
+    background-color: #eee;
+    color: #444;
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    text-align: left;
+    border: none;
+    outline: none;
+    transition: 0.4s;
+  }
+
+  .active, .accordion:hover {
+    background-color: #ccc;
+  }
+
+
+  .panel {
+  padding: 0 18px;
+  background-color: white;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+}
+
+
+.contact{
+   
+	margin-left: 10px;
+    color: bisque;
+}
+
+.head{
+    padding: 30px;
+    color:mediumorchid;
+    font-size: 30px;
+}
+
+
+footer {
+	text-align: center;
+	overflow: hidden;
+	clear: both;
+	background-color: #222222;
+	color: #ffffff;
+	margin: 8px 0;
+	height: 100px;
+}
+
+.accordion:after {
+    content: '\02795'; /* Unicode character for "plus" sign (+) */
+    font-size: 13px;
+    color: #777;
+    float: right;
+    margin-left: 5px;
+  }
+  
+  .active:after {
+    content: "\2796"; /* Unicode character for "minus" sign (-) */
+  }
