@@ -84,6 +84,7 @@ rgb to hex:
      127 = 16 * 7 + 1 * 15 = 7f
      123 = 16 * 7 + 1 * 11 = 7b
      224 = 16 * 14 + 1 * 0 = e0
+     0.4 * 255 = 102 --> 0.6 * 16 = 96 --> 66
      
 
 4 css properties that need color values:
