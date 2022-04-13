@@ -1,0 +1,11 @@
+{
+	"appId": "edu.asu.myclock",
+	"appName": "MyClockApp",
+	"bundledWebRuntime": true,
+	"webDir": "www",
+	"plugins": {
+		"SplashScreen": {
+			"launchShowDuration": 0
+		}
+	}
+}
